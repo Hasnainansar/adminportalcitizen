@@ -31,7 +31,7 @@ class _feedbackState extends State<feedback> {
         color: Colors.black,
         child: Text('OK ',
             style: TextStyle(
-                fontSize: 15,
+                fontSize: 14,
                 color: Colors.white,
                 fontWeight: FontWeight.bold)),
       ),
